@@ -1,0 +1,52 @@
+head {
+
+}
+body {
+	padding:0px; 
+	margin:0;
+	 background: #036e9c; 
+	 font-size:14px; 
+	 font-family:Arial, 
+	 Sans-serif;
+	}
+.basic {
+	width:400px; 
+	min-height:200px; 
+	margin:0 auto; 
+	padding:20px 20px 20px 20px; 
+	background:#fff;
+	border-radius: 30px;
+
+}
+img {
+	border:0;
+}
+a 
+{
+	color:#ff9c00;
+}
+a:hover {
+	text-decoration:none;
+}
+
+h1 {
+	font-family:Century Gothic;
+
+}
+
+h3 {
+	font-family:Century Gothic;
+
+}
+
+.group2 {
+
+	padding: 5px;
+	font-family: Tahoma;
+	margin: 0;
+	
+}
+input {
+	
+	height: 20px;
+}
